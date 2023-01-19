@@ -4,6 +4,8 @@
 
 [Class Extensions for C#](https://www.nuget.org/packages/Extensions.cs){:target="_blank"}
 
+[Convert any C# class to JSON](https://csharp2json.io){:target="_blank"}
+
 [Convert any JSON to a C# class](https://json2csharp.com){:target="_blank"}
 
 [Decode your Azure AD token](https://jwt.ms){:target="_blank"}
