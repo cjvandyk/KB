@@ -1,4 +1,5 @@
-# Here is a short list of essential sites/tools I use all the time: 
+# Essential Tools
+## Here is a short list of essential sites/tools I use all the time: 
 
 [Class Extensions for C#](https://www.nuget.org/packages/Extensions.cs){:target="_blank"}
 
