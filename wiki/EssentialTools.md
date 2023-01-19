@@ -2,18 +2,18 @@
 
 [Class Extensions for C#](https://www.nuget.org/packages/Extensions.cs){:target="_blank"}
 
-[Convert any JSON to a C# class](https://json2csharp.com)
+[Convert any JSON to a C# class](https://json2csharp.com){:target="_blank"}
 
-[Decode your Azure AD token](https://jwt.ms)
+[Decode your Azure AD token](https://jwt.ms){:target="_blank"}
 
-[Development IDE software](https://visualstudio.com)
+[Development IDE software](https://visualstudio.com){:target="_blank"}
 
-[Graph permissions reference](https://learn.microsoft.com/en-us/graph/permissions-reference)
+[Graph permissions reference](https://learn.microsoft.com/en-us/graph/permissions-reference){:target="_blank"}
 
-[SharePoint Framework](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/sharepoint-framework-overview)
+[SharePoint Framework](https://learn.microsoft.com/en-us/sharepoint/dev/spfx/sharepoint-framework-overview){:target="_blank"}
 
-[Source Control](https://github.com/cjvandyk)
+[Source Control](https://github.com/cjvandyk){:target="_blank"}
 
-[What's hogging my hard drive space?](https://sourceforge.net/projects/windirstat)
+[What's hogging my hard drive space?](https://sourceforge.net/projects/windirstat){:target="_blank"}
 
-e=mc<sup>2</sup>
+E=mc<sup>2</sup>
